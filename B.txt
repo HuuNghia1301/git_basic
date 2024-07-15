@@ -1,1 +1,2 @@
 Nội dung file B.txt
+Chỉnh sửa file B.txt lần 2
